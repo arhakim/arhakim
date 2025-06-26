@@ -21,10 +21,13 @@ Feel free to [contact](https://ar-hakim.com/contact) if you require a committed,
 
 ![PHP](https://skillicons.dev/icons?i=laravel&theme=light)
 
-![Javascript](https://skillicons.dev/icons?i=jquery,nodejs,vue,react,express&theme=light)
+![Javascript](https://skillicons.dev/icons?i=jquery,nodejs,vue,react,express,nuxtjs,vuetify,nextjs&theme=light)
 
-![CSS](https://skillicons.dev/icons?i=sass,bootstrap,nuxtjs,vuetify,nextjs&theme=light)
+![CSS](https://skillicons.dev/icons?i=sass,bootstrap,tailwind&theme=light)
 
+**Database**
+
+![RDBMS](https://skillicons.dev/icons?i=mysql,postgres&theme=light)
 
 ## 3rd Party Api Integration
 - **Social Media**: Facebook, Twitter, Instagram, Tumblr, TripAdvisor
@@ -52,19 +55,21 @@ Feel free to [contact](https://ar-hakim.com/contact) if you require a committed,
 ## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arhakim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=arhakim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=arhakim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhakim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph.svg">
-</picture> -->
+<div align="center">
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arhakim/arhakim/output/pacman-contribution-graph.svg">
+  </picture> -->
 
-<img src="https://raw.githubusercontent.com/arhakim/arhakim/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/arhakim/arhakim/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
