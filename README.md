@@ -36,6 +36,7 @@ Feel free to [contact](https://ar-hakim.com/contact) if you require a committed,
 - **Communication**: Twilio
 - **reCaptcha**: Google
 - **Email Service**: Gmail, Mailtrap
+- **Search Engine**: Typesense
   
 ## Cloud
 - Digital Ocean, Netlify, Github Pages, Vercel
