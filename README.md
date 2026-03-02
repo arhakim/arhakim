@@ -8,9 +8,6 @@ I am currently accepting new freelance web development clients and actively seek
 
 Feel free to [contact](https://ar-hakim.com/contact) if you require a committed, solution-focused professional to enhance your web development needs.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21yluhpuiu6ceg6ry3kazgqty)
-
-
 ## 🔨 Skill & Tools
 
 **Programming Language**
